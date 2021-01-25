@@ -116,6 +116,10 @@ legend {
     text-align: right;
 }
 
+textarea::placeholder {
+    text-align: left;
+}
+
 legend,
 .form-box input,
 .form-box select, 
